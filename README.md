@@ -1,6 +1,5 @@
 # SpiderBook
 &lt;&lt;python爬虫开发与项目实战>>书籍配套源码和说明
-[hc01](ch01/ch01.md)
 # 基础篇
 ## 第1章　回顾Python编程	2
 * 1.1　安装Python	2
